@@ -7,13 +7,10 @@
 </h1>
 
 <p align="center">
-    We create open source projects to make your life easier.
+    Coding Excellence, Redefined by Redot.
 </p>
 
 <p align="center">
-    <a href="https://github.com/redot-src/.github/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/redot-src/.github?style=flat" alt="License" />
-    </a>
     <a href="https://github.com/redot-src/.github/blob/master/CONTRIBUTING.md">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome" />
     </a>
@@ -22,22 +19,20 @@
     </a>
 </p>
 
-## About
+## About Redot
+Welcome to Redot, where innovation converges with expertise to redefine the digital landscape. As a dynamic software house, we take pride in transforming visionary ideas into cutting-edge solutions that propel businesses forward.
 
-Redot is a collection of open source projects aimed at making developers' lives easier. Our projects are designed to be easy to use, well-documented, and reliable.
+## Mission
+At Redot, our mission is to empower businesses through intelligent software solutions. We believe in the potential of technology to drive positive change, and we are dedicated to delivering innovative and reliable products that exceed expectations.
 
-## Contributing
+## Expertise
+With a team of skilled engineers, developers, and creative minds, we bring a wealth of expertise to every project. From concept to code, we are committed to crafting digital brilliance that stands out in today's competitive market.
 
-We welcome contributions from anyone who wants to help us improve our projects. To get started, please read our [contributing guidelines](https://github.com/redot-src/.github/blob/master/CONTRIBUTING.md).
+## Values
+- **Innovation:** We thrive on pushing the boundaries of what's possible, constantly seeking new and inventive solutions.
+- **Integrity:** Trust is the foundation of our relationships. We uphold the highest standards of integrity in all our interactions.
+- **Excellence:** Striving for excellence is not just a goal; it's ingrained in our culture. We pursue it relentlessly in every aspect of our work.
 
-## Code of Conduct
+At Redot, we don't just develop software; we engineer solutions that propel your success. Your vision, our code – together, let's shape the future.
 
-We have adopted a [code of conduct](https://github.com/redot-src/.github/blob/master/CODE_OF_CONDUCT.md) that we expect all contributors to adhere to. Please read it before contributing to our projects.
-
-## License
-
-Our projects are released under the [MIT license](https://github.com/redot-src/.github/blob/master/LICENSE). Please see the `LICENSE` file for more information.
-
-## Contact Us
-
-If you have any questions or feedback about our projects, please feel free to open a discussion in our [community](https://github.com/orgs/redot-src/discussions).
+*Redot - Igniting Innovation in Every Line of Code.*
