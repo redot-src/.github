@@ -1,14 +1,22 @@
 <p align="center">
-![Redot](https://raw.githubusercontent.com/redot-src/.github/master/art/logo-light.svg#gh-light-mode-only)
-![Redot](https://raw.githubusercontent.com/redot-src/.github/master/art/logo-dark.svg#gh-dark-mode-only)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/redot-src/.github/master/art/logo-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/redot-src/.github/master/art/logo-light.svg"
+    >
+    <img
+      alt="Redot"
+      src="https://raw.githubusercontent.com/redot-src/.github/master/art/logo-light.svg"
+    >
+  </picture>
 </p>
 
-<h1 align="center">
-    Redot
-</h1>
-
 <p align="center">
-    Coding Excellence, Redefined by Redot.
+    Skip the boilerplate. Ship the product.
 </p>
 
 <p align="center">
