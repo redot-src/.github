@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://github.com/redot-src/.github/blob/master/art/logo.png" width="200px" height="200px" />
+![Redot](https://raw.githubusercontent.com/redot-src/.github/master/art/logo-light.svg#gh-light-mode-only)
+![Redot](https://raw.githubusercontent.com/redot-src/.github/master/art/logo-dark.svg#gh-dark-mode-only)
 </p>
 
 <h1 align="center">
